@@ -4,7 +4,7 @@ A C program that calculates GPA based on Numerical Ratings (NR) and Academic Uni
 
 # GPA Calculator in C 🎓
 
-Created by: Merry Jes
+
 
 ## Overview
 This program calculates GPA based on Numerical Ratings (NR) and Academic Units (AU).  
